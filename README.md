@@ -16,7 +16,7 @@ The SVHN dataset consists of real-world images obtained from Google Street View,
 Several neural network models were trained and evaluated on the SVHN dataset to accomplish the recognition task. Model performance was assessed based on accuracy metrics, with the second model demonstrating superior performance.
 
 # Conclusion
-The project successfully addressed the challenge of recognizing multi-digit numbers in street-level photographs using neural network models. Leveraging the SVHN dataset, the second neural network model achieved an accuracy of [insert accuracy value], showcasing its effectiveness in transcribing address numbers accurately. The deployed model holds potential for enhancing map-making processes and advancing optical character recognition (OCR) and computer vision applications.
+The project successfully addressed the challenge of recognizing multi-digit numbers in street-level photographs using neural network models. Leveraging the SVHN dataset, the second neural network model achieved an accuracy of [77%], showcasing its effectiveness in transcribing address numbers accurately. The deployed model holds potential for enhancing map-making processes and advancing optical character recognition (OCR) and computer vision applications.
 
 # Dependencies
 Python 3.x
