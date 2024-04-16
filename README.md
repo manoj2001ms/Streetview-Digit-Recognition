@@ -1,4 +1,6 @@
 # Streetview-Digit-Recognition
+![shvn](https://github.com/manoj2001ms/Streetview-Digit-Recognition/assets/142727610/34144c53-66e0-4548-94ee-8da7354ef1bf)
+
 # Overview
 Recognizing multi-digit numbers in photographs captured at street level is a crucial component of modern-day map making. This project focuses on transcribing address numbers from geo-located patches of pixels, particularly from Google's Street View imagery, to pinpoint building locations accurately. The task poses challenges due to variations in text appearance, environmental factors, and image acquisition issues.
 
